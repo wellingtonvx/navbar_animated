@@ -139,6 +139,11 @@ header {
   text-transform: uppercase;
   cursor: pointer;
   text-decoration: none;
+  transition: 0.5s;
+}
+
+.btn:hover {
+  background-color: #1139e7;
 }
 
 .container.active .bar {
